@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TPajaITr6uTbHL4P+0GPsOrRGdvt/kHitM/xUd5DiTQ=",
+  "Source": "WSID.WebApi",
+  "BasePath": "_content/WSID.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

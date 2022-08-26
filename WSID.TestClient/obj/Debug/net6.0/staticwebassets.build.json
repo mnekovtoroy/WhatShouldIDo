@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1U5YytBA3BBuYcSisTJfUF+BApJzFKxuwT01M6BlnNw=",
+  "Source": "WSID.TestClient",
+  "BasePath": "_content/WSID.TestClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
